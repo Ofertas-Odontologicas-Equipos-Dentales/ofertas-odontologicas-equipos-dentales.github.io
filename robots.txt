@@ -7,4 +7,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://ofertas-odontologicas-equipos-dentales.github.io/#
+Sitemap: https://ofertas-odontologicas-equipos-dentales.github.io/sitemap.xml
